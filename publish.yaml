@@ -2,7 +2,7 @@ Type: Application
 Name: hexo
 Version: 0.0.19
 Provider:
-  - Alibaba
+  - 阿里云
 Description: 快速部署一个Hexo博客系统到阿里云函数计算
 HomePage: https://serverless.aliyun.com/
 Tags:
